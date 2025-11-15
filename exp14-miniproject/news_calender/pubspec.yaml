@@ -1,0 +1,33 @@
+name: news_calender
+description: "News Calendar App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.8
+  firebase_auth: ^4.17.8
+  http: ^1.2.0   # Compatible with your Dart version
+  firebase_core_web: ^2.11.5
+  cloud_firestore_web: ^3.10.8
+  firebase_auth_web: ^5.8.8
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.2.6
+  url_launcher_web: ^2.2.3
+  xml: ^6.1.0
+  intl: ^0.19.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
