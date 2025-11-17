@@ -1,0 +1,4 @@
+#Mon Nov 17 17:31:32 IST 2025
+base.0=D\:\\App_dev\\Mini_Project\\news_calender\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
